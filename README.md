@@ -15,10 +15,8 @@ Utilizando tecnologías como lo son:
 Construir una skill de Alexa (por medio del Procesamiento de Lenguaje Natural) para que los compañeros de la carrera puedan preguntarle acer de ENSANUT, la opción por excelencia en cuanto a información y bases de datos relacionadas con salud del país.
 
 ## Video del funcionamiento
+<a href="https://www.youtube.com/watch?v=fzIzAEdVUFc"><img src="image/README/1668155037016.png"> </a>
 
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/fzIzAEdVUFc">
-</iframe>
 
 
 ![img](https://media3.giphy.com/media/7McayIZ7STqoxMN3xS/giphy.gif?cid=ecf05e47a0sc0u52eojw8n9asqkxbbkg3fzqlvluehajk2ie&rid=giphy.gif&ct=g)
