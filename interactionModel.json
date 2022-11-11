@@ -1,0 +1,55 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "asistente ensanut",
+            "intents": [
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetUserIntent",
+                    "slots": [
+                        {
+                            "name": "phrase",
+                            "type": "phrase"
+                        }
+                    ],
+                    "samples": [
+                        "{phrase}"
+                    ]
+                }
+            ],
+            "types": [
+                {
+                    "name": "phrase",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "¿Qué significa Ensanut?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "¿Para qué sirve Ensanut?"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "¿Desde cuándo existe Ensanut?"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
